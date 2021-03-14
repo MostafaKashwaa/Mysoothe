@@ -10,4 +10,8 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="WelcomeScreen">Welcome</string>
+    <string name="LoginScreen">LoginScreen</string>
+    <string name="HomeScreen">HomeScreen</string>
+    <string name="ProfileScreen">ProfileScreen</string>
 </resources>
